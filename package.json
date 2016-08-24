@@ -1,0 +1,25 @@
+{
+  "name": "vue-props",
+  "version": "0.1.0",
+  "description": "Props helpers in vue.js like PropTypes in react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhenyong/vue-props.git"
+  },
+  "keywords": [
+    "vue",
+    "props",
+    "PropTypes",
+    "type"
+  ],
+  "author": "zhenyong (116982086@qq.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhenyong/vue-props/issues"
+  },
+  "homepage": "https://github.com/zhenyong/vue-props#readme"
+}
