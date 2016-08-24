@@ -1,10 +1,10 @@
-# Prop Types
+# VuePropTypes
 
 Props helpers in vue.js like PropTypes in react
 
 ## Usage
 
-import PropTypes from '../_helpers/props'
+import PropTypes from 'vue-prop-types'
 
 ```
 props: PropTypes.easyProps({
